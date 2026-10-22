@@ -1,0 +1,14 @@
+# 前端依賴與構建產物
+**/node_modules/
+**/dist/
+
+# 後端編譯產物與本地 H2 數據庫文件
+**/target/
+**/data/
+*.mv.db
+*.trace.db
+
+# 編輯器與系統文件
+.idea/
+.vscode/
+.DS_Store
